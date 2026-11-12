@@ -1,0 +1,17 @@
+Q3 Product Planning Meeting
+
+[00:00:05] Alice: Thanks everyone for joining. Today we need to settle the launch date for the new dashboard and sort out pricing.
+[00:00:21] Bob: Engineering is on track. The only open risk is the export feature, which might slip by a week.
+[00:00:40] Alice: Can we launch without export and add it in a patch release?
+[00:00:52] Bob: Yes, that works. Export isn't required for the core workflow.
+[00:01:10] Carol: From the customer side, three pilot customers asked about export, but none said it blocks them.
+[00:01:34] Alice: Okay, decision made: we launch the dashboard on November 21st without export, and export ships in the first patch release.
+[00:02:05] Dave: On pricing, I propose we keep the Pro plan at 29 dollars per month and add a 20 percent annual discount.
+[00:02:30] Carol: Support would prefer we keep the pricing page simple, so a single discount is better than several.
+[00:02:48] Alice: Agreed. We go with the 29 dollar Pro plan and one annual discount of 20 percent.
+[00:03:15] Dave: I will update the pricing page copy and send it to Carol for review by next Wednesday.
+[00:03:40] Carol: Fine. I will also prepare the customer announcement email and share a draft with Alice by Friday.
+[00:04:05] Bob: I'll write the release notes and make sure the staging environment is ready for final testing by November 14th.
+[00:04:30] Alice: Great. Let's also schedule a launch readiness review for November 18th. I'll send the invite today.
+[00:04:50] Bob: One more thing, we should monitor the error rate closely in the first week after launch.
+[00:05:02] Alice: Good point, Bob will own the monitoring dashboard. Thanks everyone, that's all for today.
